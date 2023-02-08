@@ -1116,10 +1116,10 @@
   resolved "https://registry.yarnpkg.com/@nestjs/mapped-types/-/mapped-types-1.2.2.tgz#d9ddb143776e309dbc1a518ac1607fddac1e140e"
   integrity sha512-3dHxLXs3M0GPiriAcCFFJQHoDFUuzTD5w6JDhE7TyfT89YKpe6tcCCIqOZWdXmt9AZjjK30RkHRSFF+QEnWFQg==
 
-"@nestjs/passport@^9.0.1":
-  version "9.0.1"
-  resolved "https://registry.yarnpkg.com/@nestjs/passport/-/passport-9.0.1.tgz#6c02ff8daee98ae280a388b48cde98ff3f40bce4"
-  integrity sha512-WhT0yhpMp1B8b1OdQdPv/rd2O8V0HUmoGsWFzJKPsALuaxozjem2WotUEy1GV/TT8kvfC4ok7tECjRAArO+I8Q==
+"@nestjs/passport@^9.0.2":
+  version "9.0.2"
+  resolved "https://registry.yarnpkg.com/@nestjs/passport/-/passport-9.0.2.tgz#26d3f02ee314451b87173eede6273f9b7ad6b1d1"
+  integrity sha512-L+hLH1+yQPr0cW83AZ2Suho/hQuN8OFCV6XxLknuzVW6hWReraPjgjxrz+8fFnOEOSyt3KnwUDULvuqEqgETaA==
 
 "@nestjs/platform-express@^9.3.5":
   version "9.3.5"
@@ -7296,11 +7296,6 @@ tsconfig-paths@4.1.2, tsconfig-paths@^4.0.0, tsconfig-paths@^4.1.2:
     json5 "^2.2.2"
     minimist "^1.2.6"
     strip-bom "^3.0.0"
-
-tslib@2.4.1:
-  version "2.4.1"
-  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.4.1.tgz#0d0bfbaac2880b91e22df0768e55be9753a5b17e"
-  integrity sha512-tGyy4dAjRIEwI7BzsB0lynWgOpfqjUdq91XXAlIWD2OwKBH7oCl/GZG/HT4BOHrTlPMOASlMQ7veyTqpmRcrNA==
 
 tslib@2.5.0, tslib@^2.1.0, tslib@^2.3.0, tslib@^2.4.0, tslib@^2.5.0:
   version "2.5.0"
